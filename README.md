@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello! I'm Hannah Grace Poja. 👋
 
-<!--
-**hgpoja/hgpoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science graduate from Ateneo de Naga University and Metrobank Access IV Scholar.
 
-Here are some ideas to get you started:
+💡 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial intelligence (AI)
+* Machine learning and deep learning
+* Data science and data analytics
+* Cloud technologies
+* Systems integration
+* Application support
+
+🛠️ Technical skills:
+
+* Python
+* JavaScript
+* Laravel
+* C#
+* C++
+* SQL
+* MySQL
+* TensorFlow
+* Keras
+* TensorFlow Lite
+* Flutter
+* Git and GitHub
+* Figma
+
+🚀 Featured projects:
+
+* Infant Cry Classification Mobile Application using MobileNetV3
+* PSOS (Parish System Online Services)
+* Friedrich: 2D Turn-Based Strategy Game
+
+🌱 Currently learning:
+
+* Cloud technologies
+* Data analytics
+* AI and machine learning
+
+📫 Contact:
+
+* Email: [pojahannahgrace@gmail.com](mailto:pojahannahgrace@gmail.com)
+* LinkedIn: linkedin.com/in/hannahgracepoja
