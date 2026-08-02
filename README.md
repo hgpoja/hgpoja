@@ -30,8 +30,6 @@
 🚀 Featured projects:
 
 * Infant Cry Classification Mobile Application using MobileNetV3
-* PSOS (Parish System Online Services)
-* Friedrich: 2D Turn-Based Strategy Game
 
 🌱 Currently learning:
 
