@@ -27,11 +27,9 @@
 * Git and GitHub
 * Figma
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### [Infant Cry Classification Mobile Application Using MobileNetV3](https://github.com/hgpoja/infant-cry-classification)
-
-An AI-powered mobile application developed as our undergraduate thesis to classify infant cries into the categories of hungry, pain, and sleepy.
+* [Infant Cry Classification Mobile Application Using MobileNetV3](https://github.com/hgpoja/infant-cry-classification)
 
 🌱 Currently learning:
 
